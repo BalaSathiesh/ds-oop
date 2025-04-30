@@ -1,6 +1,5 @@
-# ds-oop
 # EX 5
-![image](https://github.com/user-attachments/assets/988fc4e0-9c0b-4a89-b502-cf1555d39ba2)
+![image](https://github.com/user-attachments/assets/bd08af89-57d6-455f-8096-15ffa84f11f3)
 
 ![image](https://github.com/user-attachments/assets/59c96d5c-1a01-47c0-90ca-e1c122d03482)
 
