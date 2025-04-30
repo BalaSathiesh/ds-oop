@@ -1,6 +1,4 @@
-# ds-oop
 # EX 04
-
 ![image](https://github.com/user-attachments/assets/a9f722a3-a717-47ac-a9fc-996bedf1f423)
 
 ![image](https://github.com/user-attachments/assets/f9edf174-619b-4a73-b80e-f9e38b3dd8cd)
